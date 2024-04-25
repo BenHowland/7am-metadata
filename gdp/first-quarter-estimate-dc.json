@@ -8,11 +8,11 @@
     "@id": "http://data.gov.uk/dataset/secondestimateofgdp.csv",
     "url": "http://data.gov.uk/dataset/secondestimateofgdp.csv",
     "dcterms:title": "GDP first quarterly estimate time series",
-    "dcterms:description": "A detailed breakdown of the components of GDP..",
+    "dcterms:description": "A detailed breakdown of the components of GDP.",
     "dcat:isDistributionOf": {
         "@id": "http://data.gov.uk/dataset/second-estimate-of-gdp",
         "@type": "dcat:Dataset",
         "dc:title": "GDP first quarterly estimate time series",
-        "dc:description": "A detailed breakdown of the components of GDP.."
+        "dc:description": "A detailed breakdown of the components of GDP."
     }
 }
