@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Monthly gross domestic product: time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Monthly estimate of gross domestic product (GDP) containing constant price gross value added (GVA) data for the UK.",
+    "description": "Monthly estimate of gross domestic product (GDP) containing constant price gross value added (GVA) data for the UK.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/gdpmonthlyestimateuktimeseriesdataset"
+}

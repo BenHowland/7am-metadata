@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/gdpmonthlyestimate.csv",
+    "url": "http://data.gov.uk/dataset/gdpmonthlyestimate.csv",
+    "dcterms:title": "Monthly gross domestic product: time series",
+    "dcterms:description": "Monthly estimate of gross domestic product (GDP) containing constant price gross value added (GVA) data for the UK.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/gdp-monthly-estimate",
+        "@type": "dcat:Dataset",
+        "dc:title": "Monthly gross domestic product: time series",
+        "dc:description": "Monthly estimate of gross domestic product (GDP) containing constant price gross value added (GVA) data for the UK."
+    }
+}
