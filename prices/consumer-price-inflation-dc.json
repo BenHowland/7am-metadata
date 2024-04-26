@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/consumerpriceindices.csv",
+    "url": "http://data.gov.uk/dataset/consumerpriceindices.csv",
+    "dcterms:title": "Consumer price inflation time series",
+    "dcterms:description": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/consumer-price-indices",
+        "@type": "dcat:Dataset",
+        "dc:title": "Consumer price inflation time series",
+        "dc:description": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI."
+    }
+}
