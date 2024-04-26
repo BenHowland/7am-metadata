@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/producerpriceindex.csv",
+    "url": "http://data.gov.uk/dataset/producerpriceindex.csv",
+    "dcterms:title": "Producer price inflation time series (MM22)",
+    "dcterms:description": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/producer-price-index",
+        "@type": "dcat:Dataset",
+        "dc:title": "Producer price inflation time series (MM22)",
+        "dc:description": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers."
+    }
+}

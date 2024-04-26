@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Producer price inflation time series (MM22)",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers.",
+    "description": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers. It is a base weighted index working on the basket of goods concept. A wide range of representative products are selected and the prices of these goods collected each month. The movement in these prices are weighted to reflect the relative importance of the products in a chosen year (known as the base year), which is currently 2015. These are then aggregated for various sectors of industry to provide the published indices.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/producerpriceindex"
+}
