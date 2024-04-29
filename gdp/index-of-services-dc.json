@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/indexofservices.csv",
+    "url": "http://data.gov.uk/dataset/indexofservices.csv",
+    "dcterms:title": "Index of Services time series",
+    "dcterms:description": "Monthly movements in output for the services industries: distribution, hotels and restaurants; transport, storage and communication; business services and finance; and government and other services.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/index-of-services",
+        "@type": "dcat:Dataset",
+        "dc:title": "Index of Services time series",
+        "dc:description": "Monthly movements in output for the services industries: distribution, hotels and restaurants; transport, storage and communication; business services and finance; and government and other services."
+    }
+}
