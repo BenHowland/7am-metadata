@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "UK trade in goods by classification of product by activity time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Quarterly and annual time series of the value of UK imports and exports of goods grouped by product. Goods are attributed to the activity of which they are the principal products.",
+    "description": "Quarterly and annual time series of the value of UK imports and exports of goods grouped by product. Goods are attributed to the activity of which they are the principal products.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/datasets/uktradeingoodsbyclassificationofproductbyactivity"
+}

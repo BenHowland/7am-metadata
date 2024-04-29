@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/uktradeingoodsbyclassificationofproductbyactivity.csv",
+    "url": "http://data.gov.uk/dataset/uktradeingoodsbyclassificationofproductbyactivity.csv",
+    "dcterms:title": "UK trade in goods by classification of product by activity time series",
+    "dcterms:description": "Quarterly and annual time series of the value of UK imports and exports of goods grouped by product. Goods are attributed to the activity of which they are the principal products.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/uk-trade-in-goods-by-classification-of-product-by-activity",
+        "@type": "dcat:Dataset",
+        "dc:title": "UK trade in goods by classification of product by activity time series",
+        "dc:description": "Quarterly and annual time series of the value of UK imports and exports of goods grouped by product. Goods are attributed to the activity of which they are the principal products."
+    }
+}
