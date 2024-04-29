@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/balanceofpayments.csv",
+    "url": "http://data.gov.uk/dataset/balanceofpayments.csv",
+    "dcterms:title": "Balance of payments time series",
+    "dcterms:description": "Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/balance-of-payments",
+        "@type": "dcat:Dataset",
+        "dc:title": "Balance of payments time series",
+        "dc:description": "Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities."
+    }
+}

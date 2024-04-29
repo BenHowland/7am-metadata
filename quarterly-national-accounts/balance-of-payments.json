@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Balance of payments time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities.",
+    "description": "Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/balanceofpayments"
+}
