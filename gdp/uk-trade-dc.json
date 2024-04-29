@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/tradeingoodsmretsallbopeu2013timeseriesspreadsheet.csv",
+    "url": "http://data.gov.uk/dataset/tradeingoodsmretsallbopeu2013timeseriesspreadsheet.csv",
+    "dcterms:title": "UK trade time series",
+    "dcterms:description": "Monthly value of UK exports and imports of goods and services by current price, chained volume measures and implied deflators.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/trade-in-goods-mrets-all-bop-eu-2013-time-series-spreadsheet",
+        "@type": "dcat:Dataset",
+        "dc:title": "UK trade time series",
+        "dc:description": "Monthly value of UK exports and imports of goods and services by current price, chained volume measures and implied deflators."
+    }
+}
