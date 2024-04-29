@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/realtimeinformationstatisticsreferencetableseasonallyadjusted.csv",
+    "url": "http://data.gov.uk/dataset/realtimeinformationstatisticsreferencetableseasonallyadjusted.csv",
+    "dcterms:title": "Earnings and employment from Pay As You Earn Real Time Information, seasonally adjusted",
+    "dcterms:description": "Earnings and employment statistics from Pay As You Earn (PAYE) Real Time Information (RTI), UK, NUTS 1, 2 and 3 areas and local authorities, monthly, seasonally adjusted. These are official statistics in development.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/real-time-information-statistics-reference-table-seasonally-adjusted",
+        "@type": "dcat:Dataset",
+        "dc:title": "Earnings and employment from Pay As You Earn Real Time Information, seasonally adjusted",
+        "dc:description": "Earnings and employment statistics from Pay As You Earn (PAYE) Real Time Information (RTI), UK, NUTS 1, 2 and 3 areas and local authorities, monthly, seasonally adjusted. These are official statistics in development."
+    }
+}

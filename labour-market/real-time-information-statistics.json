@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Earnings and employment from Pay As You Earn Real Time Information, seasonally adjusted",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Earnings and employment statistics from Pay As You Earn (PAYE) Real Time Information (RTI), UK, NUTS 1, 2 and 3 areas and local authorities, monthly, seasonally adjusted. These are official statistics in development.",
+    "description": "Earnings and employment statistics from Pay As You Earn (PAYE) Real Time Information (RTI), UK, NUTS 1, 2 and 3 areas and local authorities, monthly, seasonally adjusted. These are official statistics in development.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/x09realaverageweeklyearningsusingconsumerpriceinflationseasonallyadjusted"
+}
