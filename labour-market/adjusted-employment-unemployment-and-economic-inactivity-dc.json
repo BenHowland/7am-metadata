@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/x10adjustedemploymentunemploymentandeconomicinactivity.csv",
+    "url": "http://data.gov.uk/dataset/x10adjustedemploymentunemploymentandeconomicinactivity.csv",
+    "dcterms:title": "X10: Adjusted employment, unemployment, and economic inactivity",
+    "dcterms:description": "Experimental labour market estimates using administrative data to produce adjusted UK employment, unemployment and economic inactivity measures, seasonally adjusted. Includes a breakdown by countries and regions of the UK.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/x10-adjusted-employment-unemployment-and-economic-inactivity",
+        "@type": "dcat:Dataset",
+        "dc:title": "X10: Adjusted employment, unemployment, and economic inactivity",
+        "dc:description": "Experimental labour market estimates using administrative data to produce adjusted UK employment, unemployment and economic inactivity measures, seasonally adjusted. Includes a breakdown by countries and regions of the UK."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "X10: Adjusted employment, unemployment, and economic inactivity",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Experimental labour market estimates using administrative data to produce adjusted UK employment, unemployment and economic inactivity measures, seasonally adjusted. Includes a breakdown by countries and regions of the UK.",
+    "description": "Experimental labour market estimates using administrative data to produce adjusted UK employment, unemployment and economic inactivity measures, seasonally adjusted. Includes a breakdown by countries and regions of the UK.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/x10adjustedemploymentunemploymentandeconomicinactivity"
+}
