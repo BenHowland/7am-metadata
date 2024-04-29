@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Retail Sales Index time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "A first estimate of retail sales in value and volume terms for Great Britain, seasonally and non-seasonally adjusted.",
+    "description": "A first estimate of retail sales in value and volume terms for Great Britain, seasonally and non-seasonally adjusted.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsales"
+}

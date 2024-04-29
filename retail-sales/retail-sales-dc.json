@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/retailsales.csv",
+    "url": "http://data.gov.uk/dataset/retailsales.csv",
+    "dcterms:title": "Retail Sales Index time series",
+    "dcterms:description": "A first estimate of retail sales in value and volume terms for Great Britain, seasonally and non-seasonally adjusted.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/retail-sales",
+        "@type": "dcat:Dataset",
+        "dc:title": "Retail Sales Index time series",
+        "dc:description": "A first estimate of retail sales in value and volume terms for Great Britain, seasonally and non-seasonally adjusted."
+    }
+}
