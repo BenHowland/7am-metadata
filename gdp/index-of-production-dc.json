@@ -1,0 +1,17 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/indexofproduction.csv",
+    "url": "http://data.gov.uk/dataset/indexofproduction.csv",
+    "dcterms:title": "Index of Production time series",
+    "dcterms:description": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/index-of-production",
+        "dc:title": "Index of Production time series",
+        "dc:description": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted."
+    }
+}

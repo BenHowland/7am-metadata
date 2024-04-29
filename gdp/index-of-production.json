@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Index of Production time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+    "description": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/indexofproduction"
+}
