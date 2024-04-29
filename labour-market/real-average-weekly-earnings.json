@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "X09: Real average weekly earnings using consumer price inflation",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Average weekly earnings for the whole economy, for total and regular pay, in real terms (adjusted for consumer price inflation), UK, monthly, seasonally adjusted.",
+    "description": "Average weekly earnings for the whole economy, for total and regular pay, in real terms (adjusted for consumer price inflation), UK, monthly, seasonally adjusted.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/realtimeinformationstatisticsreferencetableseasonallyadjusted"
+}

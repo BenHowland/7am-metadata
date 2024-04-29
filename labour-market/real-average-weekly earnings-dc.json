@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/x09realaverageweeklyearningsusingconsumerpriceinflationseasonallyadjusted.csv",
+    "url": "http://data.gov.uk/dataset/x09realaverageweeklyearningsusingconsumerpriceinflationseasonallyadjusted.csv",
+    "dcterms:title": "X09: Real average weekly earnings using consumer price inflation",
+    "dcterms:description": "Average weekly earnings for the whole economy, for total and regular pay, in real terms (adjusted for consumer price inflation), UK, monthly, seasonally adjusted.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/x09-real-average-weekly-earnings-using-consumer-price-inflation-seasonally-adjusted",
+        "@type": "dcat:Dataset",
+        "dc:title": "X09: Real average weekly earnings using consumer price inflation",
+        "dc:description": "Average weekly earnings for the whole economy, for total and regular pay, in real terms (adjusted for consumer price inflation), UK, monthly, seasonally adjusted."
+    }
+}
