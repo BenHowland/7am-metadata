@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/summaryoflabourmarketstatistics.csv",
+    "url": "http://data.gov.uk/dataset/summaryoflabourmarketstatistics.csv",
+    "dcterms:title": "A01: Summary of labour market statistics",
+    "dcterms:description": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/summary-of-labour-market-statistics",
+        "@type": "dcat:Dataset",
+        "dc:title": "A01: Summary of labour market statistics",
+        "dc:description": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly."
+    }
+}

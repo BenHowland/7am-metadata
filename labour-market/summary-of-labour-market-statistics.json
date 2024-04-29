@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "A01: Summary of labour market statistics",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+    "description": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/summaryoflabourmarketstatistics"
+}
