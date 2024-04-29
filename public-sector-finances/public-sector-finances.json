@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Public sector finances time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Time series data for public sector finances and important fiscal aggregates, based on the new European System of Accounts 2010: ESA10 framework.",
+    "description": "Time series data for public sector finances and important fiscal aggregates, based on the new European System of Accounts 2010: ESA10 framework.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/datasets/publicsectorfinances"
+}

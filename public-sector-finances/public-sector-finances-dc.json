@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/publicsectorfinances.csv",
+    "url": "http://data.gov.uk/dataset/publicsectorfinances.csv",
+    "dcterms:title": "Public sector finances time series",
+    "dcterms:description": "Time series data for public sector finances and important fiscal aggregates, based on the new European System of Accounts 2010: ESA10 framework.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/public-sector-finances",
+        "@type": "dcat:Dataset",
+        "dc:title": "Public sector finances time series",
+        "dc:description": "Time series data for public sector finances and important fiscal aggregates, based on the new European System of Accounts 2010: ESA10 framework."
+    }
+}
