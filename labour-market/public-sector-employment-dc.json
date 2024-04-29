@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "@id": "http://data.gov.uk/dataset/publicsectoremploymenttimeseriesdataset.csv",
+    "url": "http://data.gov.uk/dataset/publicsectoremploymenttimeseriesdataset.csv",
+    "dcterms:title": "Public sector employment time series",
+    "dcterms:description": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates.",
+    "dcat:isDistributionOf": {
+        "@id": "http://data.gov.uk/dataset/public-sector-employment-time-series-dataset",
+        "@type": "dcat:Dataset",
+        "dc:title": "Public sector employment time series",
+        "dc:description": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "@language": "en",
+    "@context": "./draft_ons_context.json",
+    "title": "Public sector employment time series",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates.",
+    "description": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates.",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "themes": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/datasets/publicsectoremploymenttimeseriesdataset"
+}
