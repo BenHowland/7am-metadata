@@ -11,13 +11,7 @@
             "dcat:title": "CLA01: Claimant Count",
             "dcat:downloadURL": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4/version/1.csv",
             "dcat:mediaType": "text/csv",
-            "dcat:isDistributionOf": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4/version/1"
-        },
-        {
-            "@id": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4/version/1",
-            "@type": "dcat:Dataset",
-            "adms:versionNotes": "Initial release",
-            "dcat:isVersionOf": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4"
+            "dcat:inSeries": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4/version/1"
         },
         {
             "@id": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4",
@@ -31,7 +25,7 @@
             "dcterms:issued": "2019-10-15",
             "dcterms:modified": "2019-10-15",
             "dcat:keyword":"",
-            "dcat:theme": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/outofworkbenefits/datasets/claimantcountcla01"
+            "dcat:theme": "https://www.ons.gov.uk/employmentandlabourmarket"
 
         }
     ]
