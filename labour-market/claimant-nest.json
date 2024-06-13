@@ -27,8 +27,7 @@
             "dcterms:modified": "2019-11-15T09:30:00",
             "dcat:keyword":"",
             "dcat:theme": "https://www.ons.gov.uk/employmentandlabourmarket",
-            "dcterms:spatial":"",
-            "dcterms:tenporal":""
+            "dcterms:spatial":""
         }
     }
 }
