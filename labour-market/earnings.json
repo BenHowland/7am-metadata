@@ -1,0 +1,86 @@
+{
+    "@context": {
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "dcterms": "http://purl.org/dc/terms#"
+    },
+    "@id": "https://ons.gov.uk/dataset/awe/edition/2019-Q4/version/1.csv",
+    "@type": "dcat:Distribution",
+    "dcat:title": "Average Weekly Earnings",
+    "dcat:downloadURL": "https://ons.gov.uk/dataset/awe/edition/2019-Q4/version/1.csv",
+    "dcat:mediaType": "text/csv",
+    "dcat:isDistributionOf": {
+        "@id": "https://ons.gov.uk/dataset/awe/edition/2019-Q4/version/1",
+        "@type": "dcat:Dataset",
+        "adms:versionNotes": "Initial release",
+        "dcat:isVersionOf": {
+            "@id": "https://ons.gov.uk/dataset/awe/edition/2019-Q4",
+            "@type": "dcat:Edition",
+            "dcterms:title": "Average Weekly Earnings",
+            "dcterms:abstract": "Average Weekly Earnings",
+            "dcterms:description": "Average Weekly Earnings",
+            "dcterms:publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcterms:license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "dcterms:creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcat:contactPoint": "labour.market@ons.gov.uk",
+            "dcterms:issued": "2019-10-15",
+            "dcterms:modified": "2019-10-15",
+            "dcat:keyword": "",
+            "dcat:theme": "https://www.ons.gov.uk/employmentandlabourmarket",
+            "dcterms:spatial": "",
+            "dcterms:tenporal": "",
+            "columns": [
+                {
+                    "name": "period_code",
+                    "titles": "Period Code",
+                    "datatype": "string"
+                },
+                {
+                    "name": "period_label",
+                    "titles": "Period Label",
+                    "datatype": "string"
+                },
+                {
+                    "name": "period_type",
+                    "titles": "Period Type",
+                    "datatype": "string"
+                },
+                {
+                    "name": "geography_code",
+                    "titles": "Geography Code",
+                    "datatype": "string"
+                },
+                {
+                    "name": "geography_label",
+                    "titles": "Geography Label",
+                    "datatype": "string"
+                },
+                {
+                    "name": "observation",
+                    "titles": "Observation",
+                    "datatype": "decimal"
+                },
+                {
+                    "name": "measure",
+                    "titles": "Measure",
+                    "datatype": "string"
+                },
+                {
+                    "name": "unit",
+                    "titles": "Unit",
+                    "datatype": "string"
+                },
+                {
+                    "name": "cdid",
+                    "titles": "CDID",
+                    "datatype": "string"
+                },
+                {
+                    "name": "sector_name",
+                    "titles": "Sector Name",
+                    "datatype": "string"
+                }
+            ]
+        }
+    }
+}
