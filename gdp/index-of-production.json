@@ -1,12 +1,34 @@
 {
-    "@language": "en",
-    "@context": "./draft_ons_context.json",
-    "title": "Index of Production time series",
-    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "summary": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
-    "description": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
-    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "keywords": [],
-    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "themes": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/indexofproduction"
+    "@context": {
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "dcterms": "http://purl.org/dc/terms#"
+    },
+    "@id": "https://ons.gov.uk/dataset/index-production/edition/2019-Q4/version/1.csv",
+    "@type": "dcat:Distribution",
+    "dcat:title": "Index of Production time series",
+    "dcat:downloadURL": "https://ons.gov.uk/dataset/index-production/edition/2019-Q4/version/1.csv",
+    "dcat:mediaType": "text/csv",
+    "dcat:isDistributionOf": {
+        "@id": "https://ons.gov.uk/dataset/index-production/edition/2019-Q4/version/1",
+        "@type": "dcat:Dataset",
+        "adms:versionNotes": "Initial release",
+        "dcat:isVersionOf": {
+            "@id": "https://ons.gov.uk/dataset/index-production/edition/2019-Q4",
+            "@type": "dcat:Edition",
+            "dcterms:title": "Index of Production time series",
+            "dcterms:abstract": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+            "dcterms:description": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+            "dcterms:publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcterms:license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "dcterms:creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcat:contactPoint": "labour.market@ons.gov.uk",
+            "dcterms:issued": "2019-10-15T07:00:00",
+            "dcterms:modified": "2019-11-15T09:30:00",
+            "dcat:keyword": "",
+            "dcat:theme": "https://www.ons.gov.uk/economy",
+            "dcterms:spatial": "",
+            "dcterms:tenporal": ""
+        }
+    }
 }
