@@ -1,12 +1,34 @@
 {
-    "@language": "en",
-    "@context": "./draft_ons_context.json",
-    "title": "Producer price inflation time series (MM22)",
-    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "summary": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers.",
-    "description": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers. It is a base weighted index working on the basket of goods concept. A wide range of representative products are selected and the prices of these goods collected each month. The movement in these prices are weighted to reflect the relative importance of the products in a chosen year (known as the base year), which is currently 2015. These are then aggregated for various sectors of industry to provide the published indices.",
-    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "keywords": [],
-    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "themes": "https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/producerpriceindex"
+    "@context": {
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "dcterms": "http://purl.org/dc/terms#"
+    },
+    "@id": "https://ons.gov.uk/dataset/producer-price/edition/2019-Q4/version/1.csv",
+    "@type": "dcat:Distribution",
+    "dcat:title": "Producer price inflation time series (MM22)",
+    "dcat:downloadURL": "https://ons.gov.uk/dataset/producer-price/edition/2019-Q4/version/1.csv",
+    "dcat:mediaType": "text/csv",
+    "dcat:isDistributionOf": {
+        "@id": "https://ons.gov.uk/dataset/producer-price/edition/2019-Q4/version/1",
+        "@type": "dcat:Dataset",
+        "adms:versionNotes": "Initial release",
+        "dcat:isVersionOf": {
+            "@id": "https://ons.gov.uk/dataset/producer-price/edition/2019-Q4",
+            "@type": "dcat:Edition",
+            "dcterms:title": "Producer price inflation time series (MM22)",
+            "dcterms:abstract": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers.",
+            "dcterms:description": "Producer Price Indices (PPIs) are a series of economic indicators that measure the price movement of goods bought and sold by UK manufacturers.",
+            "dcterms:publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcterms:license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "dcterms:creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcat:contactPoint": "labour.market@ons.gov.uk",
+            "dcterms:issued": "2019-10-15T07:00:00",
+            "dcterms:modified": "2019-11-15T09:30:00",
+            "dcat:keyword": "",
+            "dcat:theme": "https://www.ons.gov.uk/economy",
+            "dcterms:spatial": "",
+            "dcterms:tenporal": ""
+        }
+    }
 }
