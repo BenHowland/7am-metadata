@@ -2,7 +2,7 @@
     "@context": {
         "dcat": "http://www.w3.org/ns/dcat#",
         "adms": "http://www.w3.org/ns/adms#",
-        "dcterms": "http://purl.org/dc/terms/"
+        "dcterms": "http://purl.org/dc/terms#"
     },
     "@id": "https://ons.gov.uk/dataset/cla01/edition/2019-Q4/version/1.csv",
     "@type": "dcat:Distribution",
