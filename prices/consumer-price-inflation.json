@@ -1,12 +1,34 @@
 {
-    "@language": "en",
-    "@context": "./draft_ons_context.json",
-    "title": "Consumer price inflation time series",
-    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "summary": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI.",
-    "description": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI. CPIH and CPI estimates for the period 1950 to 1988 (1949 to 1987 for index values) are also available. Please note that these earlier estimates are not National Statistics. They have been modelled and are provided purely for indicative purposes. In December 2018, we published extended series for the components of CPIH covering 1988 to 2004 and CPI covering 1988 to 1995. We have now added historical series for the goods and services analyses. All of the extended series were modelled after the introduction of CPIH and CPI and do not form part of the ongoing National Statistics series at 1 decimal place.",
-    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "keywords": [],
-    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
-    "themes": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/secondestimateofgdp"
+    "@context": {
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "dcterms": "http://purl.org/dc/terms#"
+    },
+    "@id": "https://ons.gov.uk/dataset/consumer-price/edition/2019-Q4/version/1.csv",
+    "@type": "dcat:Distribution",
+    "dcat:title": "Consumer price inflation time series",
+    "dcat:downloadURL": "https://ons.gov.uk/dataset/consumer-price/edition/2019-Q4/version/1.csv",
+    "dcat:mediaType": "text/csv",
+    "dcat:isDistributionOf": {
+        "@id": "https://ons.gov.uk/dataset/consumer-price/edition/2019-Q4/version/1",
+        "@type": "dcat:Dataset",
+        "adms:versionNotes": "Initial release",
+        "dcat:isVersionOf": {
+            "@id": "https://ons.gov.uk/dataset/consumer-price/edition/2019-Q4",
+            "@type": "dcat:Edition",
+            "dcterms:title": "Consumer price inflation time series",
+            "dcterms:abstract": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI.",
+            "dcterms:description": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI. CPIH and CPI estimates for the period 1950 to 1988 (1949 to 1987 for index values) are also available. Please note that these earlier estimates are not National Statistics. They have been modelled and are provided purely for indicative purposes. In December 2018, we published extended series for the components of CPIH covering 1988 to 2004 and CPI covering 1988 to 1995. We have now added historical series for the goods and services analyses. All of the extended series were modelled after the introduction of CPIH and CPI and do not form part of the ongoing National Statistics series at 1 decimal place.",
+            "dcterms:publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcterms:license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "dcterms:creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+            "dcat:contactPoint": "labour.market@ons.gov.uk",
+            "dcterms:issued": "2019-10-15T07:00:00",
+            "dcterms:modified": "2019-11-15T09:30:00",
+            "dcat:keyword": "",
+            "dcat:theme": "https://www.ons.gov.uk/economy",
+            "dcterms:spatial": "",
+            "dcterms:tenporal": ""
+        }
+    }
 }
